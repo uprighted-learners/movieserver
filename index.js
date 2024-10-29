@@ -1,8 +1,6 @@
 //? Importing and applying dotenv, gives us access to env variables - process.env....
 require("dotenv").config();
 
-
-
 //? Importing express
 const express = require("express");
 
